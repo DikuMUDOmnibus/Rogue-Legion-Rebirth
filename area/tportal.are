@@ -1,0 +1,548 @@
+#AREADATA
+Name        Lighthouse~
+Builders    Meredith~
+Music       default.mid~
+VNUMs       52000 52049
+Cvnum       0
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#52001
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0
+2 0 0 0
+0 0
+0
+0
+#52002
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0
+1 0 0 0
+0 0
+0
+0
+#52008
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0
+1000 0 0 0
+0 0
+0
+0
+#52012
+guardian of time~
+#GT#ghe #Wg#0uardia#Wn #po#Pf #CT#cime#n~
+#GT#ghe #Wg#0uardia#Wn #po#Pf #CT#cime#n directs his cold hard stare at you.
+~
+~
+73755 4194984 1000
+2500 60 20 2
+1 9
+0
+0
+#52020
+Lighthouse keeper~
+#0L#Ci#wg#ch#0th#co#wu#Cs#0e #yK#Yee#yp#Ye#yr#n~
+The statue like #yK#Yee#yp#Ye#yr#n #po#Pf t#phe #RF#rl#Ra#rm#Re#n is here, gazing across the #Cs#ce#Ca.
+~
+~
+19 168 1000
+776 0 0 0
+2 0
+0
+0
+#0
+
+
+
+#OBJECTS
+#52010
+a smooth stone~
+a smooth stone~
+A glinting stone catches the eye of anyone that passes by.~
+13 0 0 0
+0 0 0
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#52020
+the enternal flame of time light~
+#BT#bhe #0e#Wnter#wn#Wa#0l #rf#Rlam#re #po#Pf #Yt#yim#Ye#n~
+#BT#bhe #0e#Wnter#wn#Wa#0l #rf#Rlam#re #po#Pf #Yt#yim#Ye#n~
+8 4163 0 524288
+0 0 0
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#52000
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9
+D0
+~
+~
+0 0 52001
+D1
+~
+~
+0 0 52008
+D2
+~
+~
+0 0 52007
+D5
+~
+~
+0 0 52012
+S
+#52001
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9
+D1
+~
+~
+0 0 52002
+D2
+~
+~
+0 0 52000
+D5
+~
+~
+0 0 52012
+S
+#52002
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9
+D1
+~
+~
+0 0 52003
+D2
+~
+~
+0 0 52008
+D3
+~
+~
+0 0 52001
+D5
+~
+~
+0 0 52012
+S
+#52003
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9
+D2
+~
+~
+0 0 52004
+D3
+~
+~
+0 0 52002
+D5
+~
+~
+0 0 52012
+S
+#52004
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9
+D0
+~
+~
+0 0 52003
+D2
+~
+~
+0 0 52005
+D3
+~
+~
+0 0 52008
+D5
+~
+~
+0 0 52012
+S
+#52005
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9
+D0
+~
+~
+0 0 52004
+D3
+~
+~
+0 0 52006
+D5
+~
+~
+0 0 52012
+S
+#52006
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9
+D0
+~
+~
+0 0 52008
+D1
+~
+~
+0 0 52005
+D3
+~
+~
+0 0 52007
+D5
+~
+~
+0 0 52012
+S
+#52007
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+0 9
+D0
+~
+~
+0 0 52000
+D1
+~
+~
+0 0 52006
+D5
+~
+~
+0 0 52012
+S
+#52008
+#G-#g=#PT#phe #Cs#ce#Ca #Wo#0f #Yt#yi#Yme#g=#G-#n~
+~
+4 9
+D0
+~
+~
+0 0 52002
+D1
+~
+~
+0 0 52004
+D2
+~
+~
+0 0 52006
+D3
+~
+~
+0 0 52000
+D5
+~
+~
+0 0 52012
+S
+#52009
+#r@#R)#g-#G'#BA #Yb#ye#Ya#yu#Yt#yi#Yf#yu#Yl #Cc#court#Cy#ca#Cr#cd#G,#g-#n~
+~
+4 2
+D1
+~
+~
+0 0 52010
+D2
+~
+~
+0 0 52012
+S
+#52010
+#r@#R)#g-#G'#BA #Yb#ye#Ya#yu#Yt#yi#Yf#yu#Yl #Cc#court#Cy#ca#Cr#cd#G,#g-#n~
+say flame temp save here 
+~
+4 2
+T
+flame~
+A shimmering portal appears in front of $n.~
+A shimmering portal appears in front of you.~
+all~
+8192 52011 0
+D3
+~
+~
+0 0 52009
+S
+#52011
+#W=#c)#0:A #Cc#crys#Ct#ca#Cl #Pe#pn#Pt#pr#Pa#pnce#0:#c(#W=#n~
+say rose to get out temp desci
+~
+4 0
+T
+rose~
+A shimmering portal appears in front of $n.~
+A shimmering portal appears in front of you.~
+all~
+8192 52010 0
+D4
+~
+~
+0 0 52013
+S
+#52012
+#ro#RO#p(#0U#Wp#wo#0n #ct#Ch#ce #Yr#yoc#Yks#p)#RO#ro#n~
+~
+4 5
+D0
+~
+~
+0 0 52009
+D4
+~
+~
+0 0 52008
+S
+#52013
+#w=#c)#0:#BU#bp #0t#wh#We #Yc#yr#Yy#ys#Yt#ya#Yl #WT#wo#0w#we#Wr#0:#c(#w=#n~
+~
+4 0
+D4
+~
+~
+0 0 52014
+D5
+~
+~
+0 0 52011
+S
+#52014
+#w=#c)#0:#BU#bp #0t#wh#We #Yc#yr#Yy#ys#Yt#ya#Yl #WT#wo#0w#we#Wr#0:#c(#w=#n~
+~
+4 0
+D4
+~
+~
+0 0 52015
+D5
+~
+~
+0 0 52013
+S
+#52015
+#w=#c)#0:#BU#bp #0t#wh#We #Yc#yr#Yy#ys#Yt#ya#Yl #WT#wo#0w#we#Wr#0:#c(#w=#n~
+~
+4 0
+D4
+~
+~
+0 0 52016
+D5
+~
+~
+0 0 52014
+S
+#52016
+#w=#c)#0:#BU#bp #0t#wh#We #Yc#yr#Yy#ys#Yt#ya#Yl #WT#wo#0w#we#Wr#0:#c(#w=#n~
+~
+4 0
+D4
+~
+~
+0 0 52018
+D5
+~
+~
+0 0 52015
+S
+#52017
+Portal Room~
+Just say the name the name of the destination that you'd like to go.
+Testgrounds
+mall
+jungle
+lair
+den
+dawn
+hell
+forest
+pyramid
+newbie
+rome
+~
+0 0
+T
+rome~
+A shimmering portal appears in front of $n.~
+A shimmering portal appears in front of you.~
+all~
+8192 82201 0
+T
+hell~
+A shimmering portal appears in front of $n.~
+A shimmering portal appears in front of $n~
+all~
+8192 30100 0
+T
+dawn~
+A shimmering portal appears in front of $n~
+A shimmering portal appears in front of you~
+all~
+8192 80001 0
+T
+forest~
+A shimmering portal appears in front of $n~
+A shimmering portal appears in front of you~
+all~
+8192 60000 0
+T
+lair~
+A shimmering portal appears in front of $n~
+A shimmering portal appears in front of you~
+all~
+8192 32000 0
+T
+jungle~
+A shimmering portal appears in front of you.~
+A shimmering portal appears in front of you.~
+all~
+8192 100000 0
+T
+testgrounds~
+A #Csh#cim#wm#We#cri#Cng#n portal appears in front of $n~
+A #0sh#cim#wm#We#cri#0ng#n portal appears in front of you.~
+all~
+8192 50500 0
+T
+mall~
+A shimmering portal appears in front of $n~
+A shimmering portal appears in front of you~
+all~
+8192 40000 0
+T
+pyramid~
+A shimmering portal appears in front of $n.~
+A shimmering portal appears in front of you.~
+all~
+8192 100745 0
+T
+newbie~
+A shimmering portal appears in front of $n.~
+A shimmering portal appears in front of you.~
+all~
+8192 3700 0
+D1
+~
+~
+0 0 3001
+S
+#52018
+#w=#c)#0:#BU#bp #0t#wh#We #Yc#yr#Yy#ys#Yt#ya#Yl #WT#wo#0w#we#Wr#0:#c(#w=#n~
+~
+16777728 0
+D4
+~
+~
+0 0 52019
+D5
+~
+~
+0 0 52016
+S
+#52019
+#w=#c)#0:#BU#bp #0t#wh#We #Yc#yr#Yy#ys#Yt#ya#Yl #WT#wo#0w#we#Wr#0:#c(#w=#n~
+~
+16777728 0
+D4
+~
+~
+0 0 52020
+D5
+~
+~
+0 0 52018
+S
+#52020
+#w=#c)#0:#0T#wh#We #Yc#yr#Yy#ys#Yt#ya#Yl #Gc#ghamb#Ge#gr #Po#pf #Cl#ci#Cg#ch#Ct#0:#c(#w=#n~
+The crystal room dances with the flame's light. However, it sends out an unfaultering beaken across the great sea. 
+This is also the room of the lightkeeper, she is bound by tradition her life in servitude, to make sure that the light will forever burn.
+~
+25182722 0
+T
+portal~
+A shimmering portal appears in front of $n.~
+A shimmering portal appears in front of you.~
+all~
+8192 52017 0
+D5
+~
+~
+0 0 52019
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#SPECIALS
+M 52012 spec_vladd_decap
+S
+
+
+
+#RESETS
+M 0 52012 1 52012
+M 0 52020 1 52020
+S
+
+
+
+#$

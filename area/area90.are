@@ -1,0 +1,74 @@
+#AREADATA
+Name        New area~
+Builders    None~
+Music       default.mid~
+VNUMs       81100 81200
+Cvnum       0
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#81101
+butomi~
+(no short description)~
+(no long description)
+~
+~
+1 0 0
+0 0 0 0
+0 0
+0
+0
+#0
+
+
+
+#OBJECTS
+#81106
+protoplasm~
+(no short description)~
+(no description)~
+13 0 0 0
+0 0 0
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#$

@@ -1,0 +1,562 @@
+#AREADATA
+Name        New area~
+Builders    Shemhazai~
+Music       default.mid~
+VNUMs       81100 81200
+Cvnum       0
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#81101
+butomi~
+(no short description)~
+(no long description)
+~
+~
+1 0 0
+1 0 0 0
+0 0
+0
+0
+#0
+
+
+
+#OBJECTS
+#81100
+no name~
+(no short description)~
+(no description)~
+13 0 0 0
+0 0 0
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#81106
+protoplasm~
+(no short description)~
+(no description)~
+13 0 0 0
+0 0 0
+0 0 0 0
+1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#81100
+#0Shin#wobi's Al#0tar O#wf Ele#0men#wts#n~
+As you look around at the amazing art and beauty of the Temple,
+Six(6) Massive gold gates surround you, North leading to the Fire Shins,
+East leading to the Hades of Shadow Shins, South leading to
+Tiamat - Waterworld of the Hydra Shins, West to Gaia - Home to
+, Remains of Tiamat - Home to Earth Shins, Up leading to High
+Heavens of Holy Shinobi's, Down blowing to the Wind tunnels of Shinobi's.
+done
+immt lol 3 of em?
+immt  lol
+who
+who
+l
+who
+~
+0 0
+D0
+~
+~
+0 0 81102
+D1
+~
+~
+0 0 81101
+D2
+~
+~
+0 0 81104
+D3
+~
+~
+0 0 81103
+D4
+~
+~
+0 0 81105
+D5
+~
+~
+0 0 81106
+S
+#81101
+#0Hades Shadow Of Shinobi#n~
+Shadows of Reality spread throughout the sunder of here.
+Screams of souls and lost shinobi's ring through the skies.
+Shadow Shinobi's only are versetile abouts these wastelands.
+Beware fellow shins and classes of being plunged into shadowplanes.
+~
+0 0
+D3
+~
+~
+0 0 81100
+S
+#81102
+#RIn#rfe#Rrn#ro O#Rf T#rhe B#Rurn#ring #RSh#rino#Rbi#n~
+#rFla#Rmes#n errupt from the ground and a castle of #rL#Ra#rv#Ra#n
+stands infront of you. Explosions of mass atomic energy causes your
+balance to break. Hope your able to hold the heat or like the expression
+" Cant stand the heat get out the kitch ". Fire Shinobi's breath this fire
+in for eternity giving them they're power to skorch all.
+~
+0 0
+D2
+~
+~
+0 0 81100
+S
+#81103
+#gPla#Gn#get #oEar#gth #oOf #gSh#oin#gob#oi#n~
+Fresh oxygen fills the air from Gaia's tree's. Windblows effort-
+lessly about while birds shoot across the sky. Clouds are whitish blue
+with the RAW shining its bright light of life into your eyes. Hills of
+green run across the land with mamals galloping free. Utopia is served
+great voyager for ye has yet see wonders of this world.
+~
+0 0
+D1
+~
+~
+0 0 81100
+S
+#81104
+#LTia#lmat #LHo#lme #LT#lo #LT#lh#Le #lHy#Ldr#la Sh#Lin#lob#Li#n ~
+Water surrounds this planet known as Tiamat. Being of
+large mass habitat this world, the deadliest of them all are #lW#Late#lr#n
+Shinobi's. They claim Tiamat the home of hydra Shins, co-existing
+with all other beautiful creatures Xrakisis has created. Unless
+you can breath underwater or fly, your existence is a short time.
+~
+0 0
+D0
+~
+~
+0 0 81100
+S
+#81105
+#wH#Wig#wh He#Wave#wns O#Wf Ho#wly S#Whin#wob#Wi's#n~
+Clouds of great beauty shroud around you as you enter. All the
+souls of light linger among these heights. God with his four seraphims
+surrounding him always praising the words of our lord, "Holy , Holy , Holy ,
+father of fathers , lord of lords , Creator of All Creation".
+~
+0 0
+D5
+~
+~
+0 0 81100
+S
+#81106
+#CEy#ce O#Cf Th#ce Hu#Crri#cca#Cne#n~
+Winds at mach speeds rip through this world of air. Just the force
+slices your skin that is naked. All acts of nature is active within here.
+#wWind Shinobi's flow fluently among the strongest winds. Hope you can
+fly or your going to be blown away by the winds.
+~
+0 0
+D4
+~
+~
+0 0 81100
+S
+#81107
+#RVol#0ca#Rno #0O#rf Ba'#Rh#re'#0mu#Rt#n~
+You've entered the volcano of Bahemut the great, platinum and
+diamonds sparkle all around the walls with fatal attraction.
+Teeth marks and broken pieces of platinum and diamonds are on
+some of the giant floating rocks in the molten lava.
+Old bones of ancient dragons that once lived inside this volcano.
+~
+0 0
+D0
+~
+~
+0 0 81130
+D1
+~
+~
+0 0 81111
+D2
+~
+~
+0 0 81110
+D3
+~
+~
+0 0 81108
+D4
+~
+~
+0 0 81112
+D5
+~
+~
+0 0 81113
+S
+#81108
+#gDr#Gag#gon #GL#ga#Gi#gr #GOf E#gter#Gni#gty#n~
+Eggs of giantic size and mass scatter throughout the lair. Young dragons
+are just starting to hatch that will be very hungry for a first kill.
+Only armor made from the greatest forging can stand against
+these dragon teeth and fire. Very rare people have entered here and
+made it back home.
+~
+0 0
+D1
+~
+~
+0 0 81107
+S
+#81109
+#wCl#0ou#wds #0O#wf Th#0e Hi#wgh S#0ki#wes#n~
+~
+0 0
+D2
+~
+~
+0 0 81107
+D3
+~
+~
+0 0 81130
+S
+#81110
+#RC#Yor#Re #YO#Rf T#Rhe E#Yart#Rh#n~
+~
+0 0
+D0
+~
+~
+0 0 81107
+D1
+~
+~
+0 0 81129
+D3
+~
+~
+0 0 81128
+S
+#81111
+#wAr#Wag#won#W's C#oa#wv#oe#n~
+This is the cave of Aragon from the ancient times of life. A dragon
+of the god's most cherished and proud of. Aragon still roams the earth
+but very discreet on where abouts to travel. Only some
+people have caught this giant beautiful beast of life.
+Some say at the time of 12 am sharp Aragon will fly in circles over this exact spot.
+~
+0 0
+D3
+~
+~
+0 0 81107
+S
+#81112
+#rDra#ggoo#rn Pl#gay#rpen#n~
+~
+0 0
+D5
+~
+~
+0 0 81107
+S
+#81113
+#rDra#ggoo#rn Pl#gay#rpen#n~
+Young dragons fly and roughouse all over here in the pen. Watch out
+they might just have you tumble in the mix of there play. Older dragons
+watch amongst the youths play with each other.
+~
+0 0
+D4
+~
+~
+0 0 81107
+S
+#81114
+#CTa#cb#Cle #cOf E#Clem#cen#Cts#n~
+You stand on top of the chart of elements. Only people of the
+ancients can understand these writings. Years of code cracking and
+research must be done before even having a clue of what this means.
+Thy must reach oneness with the earth and its elements of the universe.
+~
+0 0
+D0
+~
+~
+0 0 81117
+D1
+~
+~
+0 0 81118
+D2
+~
+~
+0 0 81115
+D3
+~
+~
+0 0 81116
+D4
+~
+~
+0 0 81119
+D5
+~
+~
+0 0 81120
+S
+#81115
+#cEl#wem#cen#wtal #cBo#ward#cwal#wk#n~
+Elemental Beings travel amongst this boardwalk. Shops and temples
+tower over the strip giving off its positive energy and feel.
+Old beings in cloaks stand infront of these shops and temples
+guarding the ancient structures.
+~
+0 0
+D0
+~
+~
+0 0 81114
+D1
+~
+~
+0 0 81127
+D3
+~
+~
+0 0 81126
+S
+#81116
+#LEle#rmen#Ltal #rCa#Lny#ron#n~
+You've fallen into the canyon of elements. Hope you can find
+your way out of here, since your stupid enough to fall in!.
+Maybe one of the fellow elementals can guide your way, ask around.
+~
+0 0
+D1
+~
+~
+0 0 81114
+S
+#81117
+#cEl#weme#cnt#wal B#coar#wdwa#clk#n~
+Elemental Beings travel amongst this boardwalk. Shops and temples
+tower over the strip giving off its positive energy and feel.
+Old beings in cloaks stand infront of these shops and temples
+guarding the ancient structures.
+~
+0 0
+D2
+~
+~
+0 0 81114
+S
+#81118
+#rEle#Lmen#rtal #LCa#rny#Lon#n~
+You've fallen into the canyon of elements. Hope you can find
+your way out of here, since your stupid enough to fall in!.
+Maybe one of the fellow elementals can guide your way, ask around.
+~
+0 0
+D3
+~
+~
+0 0 81114
+S
+#81119
+#oFi#wel#od O#wf Pu#orit#wies#n~
+E.........L.....E..M.......EN......TA......L..........
+FI...........E..........L......D.....OF.........
+P................UR................ITI.........ES..........
+~
+0 0
+D5
+~
+~
+0 0 81114
+S
+#81120
+#wFi#oel#wd O#of Pu#writ#oies#n~
+E.........L.....E..M.......EN......TA......L..........
+FI...........E..........L......D.....OF.........
+P................UR................ITI.........ES..........
+~
+0 0
+D4
+~
+~
+0 0 81114
+S
+#81121
+#gT#Yh#ge #YGa#grd#Yen #gOf E#Yde#gn#n~
+You stand on top of the chart of elements. Only people of the
+ancients can understand these writings. Years of code cracking and
+research must be done before even having a clue of what this means.
+Thy must reach oneness with the earth and its elements of the universe.
+~
+0 0
+D0
+~
+~
+0 0 81124
+D1
+~
+~
+0 0 81122
+D2
+~
+~
+0 0 81125
+D3
+~
+~
+0 0 81123
+S
+#81122
+#RT#Lh#Re #LGa#Rrd#Len #ROf E#Lde#Rn#n~
+~
+0 0
+D3
+~
+~
+0 0 81121
+S
+#81123
+#cT#oh#ce #oGa#crd#oen #YOf E#cde#Yn#n~
+~
+0 0
+D1
+~
+~
+0 0 81121
+S
+#81124
+#wKin#Yg#wdom #YOf H#weav#Yen#n~
+~
+0 0
+D2
+~
+~
+0 0 81121
+S
+#81125
+#rPi#Wt's O#rf He#Wll#n~
+~
+0 0
+D0
+~
+~
+0 0 81121
+S
+#81126
+#lEt#cer#lna#cl E#lle#cmen#lts#n~
+The oldest of elements rest within these grounds. This is where
+elements regenerate their powers before and after battles. No violence is
+tolerated on these sacred grounds of the universe.
+~
+0 0
+D1
+~
+~
+0 0 81115
+S
+#81127
+#rEt#yer#rna#yl E#rle#ymen#rts#n~
+The oldest of elements rest within these grounds. This is where
+elements regenerate their powers before and after battles. No violence is
+tolerated on these sacred grounds of the universe.
+~
+0 0
+D3
+~
+~
+0 0 81115
+S
+#81128
+#YC#Ror#Ye #RO#Yf The #REar#Yth#n~
+~
+0 0
+D1
+~
+~
+0 0 81110
+S
+#81129
+#gC#Ror#ge #RO#gf The #REar#gth#n~
+~
+0 0
+D3
+~
+~
+0 0 81110
+S
+#81130
+#0Cl#wou#0ds #wOf #0Th#we H#0ig#wh S#0ki#wes#n~
+Clouds of the high skies wheres the gods rest. The view of the
+earth is heart touching with the sun and blue ocean moving peacefully.
+You can see the bird flying playfully with each other while the whales
+in the water swim towards their breeding grounds. Only few people ever
+get this view of the world we live in today, cherish this young earthling.
+~
+0 0
+D1
+~
+~
+0 0 81109
+D2
+~
+~
+0 0 81107
+S
+#0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#$
